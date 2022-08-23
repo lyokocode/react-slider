@@ -2,5 +2,5 @@
 
 ## React Project
 
-### demo
+### demo:
 https://aelita-slider.netlify.app
